@@ -1,1 +1,0 @@
-Tryout code for CNN and mongodb
