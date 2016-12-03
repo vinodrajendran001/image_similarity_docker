@@ -23,7 +23,7 @@ step 5: In terminal, inside the image_similarity run the following command
 
 Thats it!
 
-step 5: Go to browser and in the url type '0.0.0.0' 
+step 6: Go to browser and in the url type '0.0.0.0' 
 
 	--file upload page opens
 	--choose the image file (.jpg or .png) and click upload
